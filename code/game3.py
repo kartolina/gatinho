@@ -67,8 +67,13 @@ def verificar_colisao(personagem_rect, coletavel_pos):
 
 
 def carregar_fundo():
+
     fundo = pygame.image.load("background.png")
     fundo = pygame.transform.scale(fundo, (LARGURA_TELA * 2, ALTURA_TELA))
+
+    fundo = pygame.image.load("background.png")  
+    fundo = pygame.transform.scale(fundo, (LARGURA_TELA * 2, ALTURA_TELA))
+
     return fundo
 
 
@@ -97,7 +102,10 @@ def carregar_record():
         with open("record.pickle", "rb") as arquivo:
             return pickle.load(arquivo)
     except FileNotFoundError:
+
         return 0
+
+
 
 
 def salvar_record(record):
@@ -141,7 +149,7 @@ def jogo():
             if not rodando:
                 break
 
-            # Movimentação do personagem
+          
             teclas = pygame.key.get_pressed()
 
             if teclas[pygame.K_LEFT]:
@@ -158,7 +166,7 @@ def jogo():
             else:
                 mov_y = 0
 
-            # Atualizar a posição do personagem
+   
             x += mov_x
             y += mov_y
 
@@ -190,7 +198,7 @@ def jogo():
 
             tela.fill(BRANCO)
 
-            # Desenhar o fundo em movimento
+          
             deslocamento_fundo -= velocidade_fundo
             if deslocamento_fundo <= -LARGURA_TELA:
                 deslocamento_fundo = 0

@@ -11,7 +11,7 @@ Se o gatinho colidir com as bordas da tela, o jogo acaba e você volta pro iníc
 Se ainda não tem o Python instalado, baixe o Python.
 
 # Clone o repositório:
-git clone https://github.com/kartolina/gatinhogame.git
+git clone https://github.com/kartolina/gatinho.git
 
 # Entre na pasta do projeto:
 cd caminho/para/o/gatinhogame
@@ -91,8 +91,7 @@ Mac/Linux:
 ```
 source venv/bin/activate
 ```
-Passo 3: Instalando as dependências
-Com o ambiente virtual ativo, instale as dependências do projeto (que estão no arquivo requirements.txt).
+Passo 3: Com o ambiente virtual ativo, instale as dependências do projeto (que estão no arquivo requirements.txt).
 
 No terminal, digite o seguinte comando:
 ```

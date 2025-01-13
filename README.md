@@ -20,7 +20,7 @@ cd caminho/para/o/gatinhogame
 pip install -r requirements.txt
 
 # Execute o jogo:
-python game.py
+python game3.py
 
 # O que usei:
 Python: A linguagem que usei para programar o jogo.

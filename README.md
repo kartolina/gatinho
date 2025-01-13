@@ -40,39 +40,48 @@ toda a arte usada no jogo foi graças aos artistas no ichi.io que disponibilizar
 
 
 # Tutorial Detalhado
-Como rodar o "Gatinho Faminto" no seu computador
-Para rodar o jogo que você baixou, siga as instruções abaixo:
+# Gatinho Faminto
 
-1. Baixando o projeto
-Primeiro, baixe o projeto clicando no botão "Code" no GitHub e depois "Download ZIP".
-Extraia o arquivo ZIP para uma pasta em seu computador.
-2. Instalando o Python
-Para rodar o jogo, você precisa ter o Python instalado. Aqui está como fazer isso:
+## Como rodar o jogo no seu computador
 
-Vá até o site do Python.
-Baixe a versão mais recente do Python para o seu sistema operacional (Windows, macOS ou Linux).
-Importante: Durante a instalação, marque a opção "Add Python to PATH", para garantir que você possa usar o Python diretamente no terminal.
-3. Instalando as dependências
-Agora que você tem o projeto e o Python instalados, precisamos instalar as bibliotecas necessárias para rodar o jogo.
+Siga as instruções abaixo para rodar o "Gatinho Faminto" e começar a jogar.
 
-Passo 1: Abrindo o terminal na pasta do projeto
-Windows:
+### 1. Baixando o projeto
 
-Navegue até a pasta onde você extraiu o projeto no File Explorer.
-Clique na barra de endereços (onde está o caminho da pasta), apague o que está escrito lá e digite cmd, depois pressione Enter. Isso abrirá o Prompt de Comando dentro da pasta do projeto.
-Mac/Linux:
+1. **Baixe o projeto** clicando no botão **"Code"** no GitHub e depois **"Download ZIP"**.
+2. Extraia o arquivo ZIP para uma pasta no seu computador.
 
-Abra o Terminal e, com o comando cd, navegue até a pasta onde você extraiu o projeto. Exemplo:
-bash
-Copiar código
-cd /caminho/para/a/pasta/do/projeto
-Passo 2: Criando um ambiente virtual (opcional, mas recomendado)
-Para evitar conflitos com outras versões de Python, é bom criar um ambiente virtual. Isso mantém tudo isolado.
+### 2. Instalando o Python
 
-No terminal, digite o seguinte comando para criar o ambiente virtual:
-bash
-Copiar código
-python -m venv venv
+Para rodar o jogo, você precisa ter o **Python** instalado no seu computador. 
+
+1. Vá até o [site oficial do Python](https://www.python.org/downloads/).
+2. Baixe a versão mais recente do Python para o seu sistema operacional (Windows, macOS ou Linux).
+3. **Importante**: Durante a instalação, **marque a opção** "Add Python to PATH", para garantir que você possa usar o Python diretamente no terminal.
+
+### 3. Instalando as dependências
+
+Agora que você tem o projeto e o Python instalados, é hora de instalar as dependências necessárias para rodar o jogo.
+
+#### Passo 1: Abrindo o terminal na pasta do projeto
+
+- **Windows**: 
+  1. Navegue até a pasta onde você extraiu o projeto no **File Explorer**.
+  2. Clique na barra de endereços (onde está o caminho da pasta), apague o que está escrito lá e digite `cmd`, depois pressione Enter. Isso abrirá o **Prompt de Comando** dentro da pasta do projeto.
+
+- **Mac/Linux**:
+  1. Abra o **Terminal** e, com o comando `cd`, navegue até a pasta onde você extraiu o projeto:
+     ```
+     cd /caminho/para/a/pasta/do/projeto
+     ```
+
+#### Passo 2: Criando um ambiente virtual (opcional, mas recomendado)
+
+Criar um ambiente virtual ajuda a manter as dependências do projeto isoladas.
+
+1. No terminal, digite o seguinte comando para criar o ambiente virtual:
+   ```
+   python -m venv venv
 Ative o ambiente virtual:
 Windows:
 bash
@@ -89,10 +98,8 @@ No terminal, digite o seguinte comando:
 bash
 Copiar código
 pip install -r requirements.txt
-Isso vai baixar todas as bibliotecas que o jogo precisa para rodar.
-
 4. Rodando o jogo
-Agora que tudo está pronto, basta rodar o jogo!
+Agora que tudo está configurado, basta rodar o jogo!
 
 No terminal, com o ambiente virtual ainda ativo, digite:
 bash

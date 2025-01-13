@@ -25,9 +25,9 @@ python game.py
 # O que usei:
 Python: A linguagem que usei para programar o jogo.
 Pygame: Biblioteca para criação de jogos, com gráficos e sons.
-Melhorias que quero fazer:
 
-# Adicionar novos coletáveis e desafios.
+# Melhorias que quero fazer:
+Adicionar novos coletáveis e desafios.
 Melhorar a animação do gatinho.
 Deixar o jogo mais difícil com o tempo.
 Adicionar sons e trilha sonora.

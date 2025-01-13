@@ -3,7 +3,7 @@ Esse é meu primeiro jogo em Python! É um jogo bem simples onde você controla 
 
 # Como jogar:
 Use as setas do teclado (↑ ↓ ← →) para mover o gatinho.
-Coleta os itens (eles aparecem aleatoriamente na tela).
+Colete os itens (eles aparecem aleatoriamente na tela).
 A cada 3 itens coletados, o gatinho cresce (fica mais forte!).
 Se o gatinho colidir com as bordas da tela, o jogo acaba e você volta pro início. 😿
 

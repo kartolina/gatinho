@@ -5,152 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e51ce207-5541-420f-9cb6-27414a120707" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/code/Background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/caixa.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Apple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Apple.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/AppleWorm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/AppleWorm.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Avocado.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Avocado.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Bacon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Bacon.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Beer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Beer.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Boar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Boar.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Bread.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Bread.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Brownie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Brownie.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Bug.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Bug.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Cheese.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Cheese.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Cherry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Cherry.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Chicken.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Chicken.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/ChickenLeg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/ChickenLeg.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Cookie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Cookie.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/DragonFruit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/DragonFruit.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Eggplant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Eggplant.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Eggs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Eggs.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Fish.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Fish.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/FishFillet.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/FishFillet.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/FishSteak.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/FishSteak.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Food.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Food.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Food.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/FreePixelFood.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Grub.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Grub.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Grubs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Grubs.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Honey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Honey.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Honeycomb.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Honeycomb.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Jam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Jam.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Jerky.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Jerky.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Lemon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Lemon.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Marmalade.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Marmalade.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/MelonCantaloupe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/MelonCantaloupe.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/MelonHoneydew.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/MelonHoneydew.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/MelonWater.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/MelonWater.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Moonshine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Moonshine.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Olive.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Olive.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Onion.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Onion.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Peach.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Peach.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/PepperGreen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/PepperGreen.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/PepperRed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/PepperRed.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Pepperoni.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Pepperoni.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Pickle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Pickle.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/PickledEggs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/PickledEggs.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/PieApple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/PieApple.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/PieLemon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/PieLemon.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/PiePumpkin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/PiePumpkin.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Pineapple.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Pineapple.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Potato.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Potato.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/PotatoRed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/PotatoRed.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Pretzel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Pretzel.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Ribs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Ribs.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Roll.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Roll.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Saki.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Saki.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Sardines.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Sardines.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Sashimi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Sashimi.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Sausages.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Sausages.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Shrimp.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Shrimp.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Steak.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Steak.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Stein.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Stein.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Strawberry.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Strawberry.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Sushi.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Sushi.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Tart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Tart.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Tomato.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Tomato.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Turnip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Turnip.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Waffles.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Waffles.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Whiskey.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Whiskey.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Wine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/coletaveis/Wine.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/fonte2d.TTF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/fundo/_stringstar_fields.aseprite" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/fundo/background_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/fundo/background_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/fundo/background_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/lovedays.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/playeridle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code/record.pickle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/code/game3.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/game3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/record.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/code/record.pickle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,12 +30,12 @@
     &quot;assignee&quot;: &quot;kartolina&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/kartolina/gatinho.git",
-    "accountId": "ab1bb491-09e3-43bb-b137-47f7d60480be"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/kartolina/gatinho.git&quot;,
+    &quot;accountId&quot;: &quot;ab1bb491-09e3-43bb-b137-47f7d60480be&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -213,6 +70,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\slysa\PycharmProjects\catgame2\code" />
       <recent name="C:\Users\slysa\PycharmProjects\catgame2" />
     </key>
   </component>
@@ -235,7 +93,8 @@
       <workItem from="1736713060797" duration="7200000" />
       <workItem from="1736720628168" duration="10666000" />
       <workItem from="1736731948579" duration="1184000" />
-      <workItem from="1736733154812" duration="2257000" />
+      <workItem from="1736733154812" duration="2525000" />
+      <workItem from="1736735717047" duration="2787000" />
     </task>
     <servers />
   </component>
@@ -260,7 +119,7 @@
     <SUITE FILE_PATH="coverage/catgame2$game.coverage" NAME="game Coverage Results" MODIFIED="1736726032929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/catgame2$gamei.coverage" NAME="gamei Coverage Results" MODIFIED="1736720314012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
     <SUITE FILE_PATH="coverage/catgame2$game2.coverage" NAME="game2 Coverage Results" MODIFIED="1736728248358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
-    <SUITE FILE_PATH="coverage/catgame2$game3.coverage" NAME="game3 Coverage Results" MODIFIED="1736735436683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
+    <SUITE FILE_PATH="coverage/catgame2$game3.coverage" NAME="game3 Coverage Results" MODIFIED="1736738831031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/catgame2$game1.coverage" NAME="game1 Coverage Results" MODIFIED="1736727476047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.venv" />
   </component>
 </project>

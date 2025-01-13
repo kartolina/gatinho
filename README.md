@@ -14,7 +14,7 @@ Se ainda não tem o Python instalado, baixe o Python.
 git clone https://github.com/kartolina/gatinhogame.git
 
 # Entre na pasta do projeto:
-cd gatinhogame
+cd caminho/para/o/gatinhogame
 
 # Instale as dependências:
 pip install -r requirements.txt

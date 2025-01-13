@@ -91,8 +91,7 @@ Mac/Linux:
 ```
 source venv/bin/activate
 ```
-Passo 3: Instalando as dependências
-Com o ambiente virtual ativo, instale as dependências do projeto (que estão no arquivo requirements.txt).
+Passo 3: Com o ambiente virtual ativo, instale as dependências do projeto (que estão no arquivo requirements.txt).
 
 No terminal, digite o seguinte comando:
 ```

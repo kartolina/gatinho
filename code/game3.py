@@ -68,18 +68,18 @@ def verificar_colisao(personagem_rect, coletavel_pos):
 
 
 def carregar_fundo():
-    fundo = pygame.image.load("background.png")  # Substitua com o caminho do seu fundo
+    fundo = pygame.image.load("background.png")  
     fundo = pygame.transform.scale(fundo, (LARGURA_TELA * 2, ALTURA_TELA))  # Ajuste o tamanho do fundo
     return fundo
 
 
-# Função para desenhar o fundo em movimento
+
 def desenhar_fundo(fundo, deslocamento):
     tela.blit(fundo, (deslocamento, 0))
     tela.blit(fundo, (deslocamento - LARGURA_TELA, 0))  # Repete o fundo
 
 
-# Função para verificar se o personagem colidiu com as bordas da tela
+
 def verificar_colisao_borda(x, y, largura_personagem, altura_personagem):
     if x < 0 or x + largura_personagem > LARGURA_TELA or y < 0 or y + altura_personagem > ALTURA_TELA:
         return True
@@ -87,7 +87,7 @@ def verificar_colisao_borda(x, y, largura_personagem, altura_personagem):
 
 
 def mostrar_game_over():
-    # Substitua pelo caminho da sua fonte personalizada
+  
     fonte_game_over = pygame.font.Font("fonte2d.ttf", 74)
     texto_game_over = fonte_game_over.render("Game Over", True, VERMELHO)
     tela.blit(texto_game_over, (LARGURA_TELA // 2 - texto_game_over.get_width() // 2, ALTURA_TELA // 2 - texto_game_over.get_height() // 2))
@@ -98,7 +98,7 @@ def carregar_record():
         with open("record.pickle", "rb") as arquivo:
             return pickle.load(arquivo)
     except FileNotFoundError:
-        return 0  # Se não existir o arquivo de recorde, o recorde será 0
+        return 0 
 
 
 def salvar_record(record):
@@ -115,7 +115,7 @@ def jogo():
     coletados = 0
     coletaveis = carregar_coletaveis()
 
-    # Inicializa o primeiro coletável em uma posição aleatória
+   
     coletavel_atual = random.choice(coletaveis)
     coletavel_pos = (random.randint(50, LARGURA_TELA - 50), random.randint(50, ALTURA_TELA - 50))
 
@@ -142,7 +142,7 @@ def jogo():
             if not rodando:
                 break
 
-            # Movimentação do personagem
+          
             teclas = pygame.key.get_pressed()
 
             if teclas[pygame.K_LEFT]:
@@ -159,7 +159,7 @@ def jogo():
             else:
                 mov_y = 0
 
-            # Atualizar a posição do personagem
+   
             x += mov_x
             y += mov_y
 
@@ -191,7 +191,7 @@ def jogo():
 
             tela.fill(BRANCO)
 
-            # Desenhar o fundo em movimento
+          
             deslocamento_fundo -= velocidade_fundo
             if deslocamento_fundo <= -LARGURA_TELA:
                 deslocamento_fundo = 0

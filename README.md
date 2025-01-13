@@ -11,7 +11,7 @@ Se o gatinho colidir com as bordas da tela, o jogo acaba e você volta pro iníc
 Se ainda não tem o Python instalado, baixe o Python.
 
 # Clone o repositório:
-git clone https://github.com/seuusuario/gatinhogame.git
+git clone https://github.com/kartolina/gatinhogame.git
 
 # Entre na pasta do projeto:
 cd gatinhogame

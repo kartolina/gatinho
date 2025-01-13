@@ -36,7 +36,7 @@ Adicionar sons e musica.
 toda a arte usada no jogo foi graças aos artistas no ichi.io que disponibilizaram seu trabalho para projetos como este: 9E0, edermunizz e Henry Software!
 
 
-
+<3<3<3<3<3<3
 
 
 # Tutorial Detalhado

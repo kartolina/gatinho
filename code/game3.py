@@ -20,7 +20,7 @@ velocidade_fundo = 2
 
 
 def carregar_personagem():
-    caminho = ("C:/Users/slysa/PycharmProjects/catgame2/.venv/playeridle.png")
+    caminho = ("C:/Users/slysa/PycharmProjects/catgame2/code/playeridle.png")
     personagem = pygame.image.load(caminho)
     return personagem
 
@@ -46,7 +46,7 @@ def desenhar_personagem(x, y, frame_atual, tamanho_personagem):
 # Função para carregar os coletáveis
 def carregar_coletaveis():
     coletaveis = []
-    coletaveis_folder = "C:/Users/slysa/PycharmProjects/catgame2/.venv/coletaveis"
+    coletaveis_folder = "C:/Users/slysa/PycharmProjects/catgame2/code/coletaveis"
     for img_name in os.listdir(coletaveis_folder):
         if img_name.endswith(".png"):
             img_path = os.path.join(coletaveis_folder, img_name)
@@ -68,7 +68,7 @@ def verificar_colisao(personagem_rect, coletavel_pos):
 
 
 def carregar_fundo():
-    fundo = pygame.image.load("C:/Users/slysa/PycharmProjects/catgame2/.venv/background.png")  # Substitua com o caminho do seu fundo
+    fundo = pygame.image.load("C:/Users/slysa/PycharmProjects/catgame2/code/background.png")  # Substitua com o caminho do seu fundo
     fundo = pygame.transform.scale(fundo, (LARGURA_TELA * 2, ALTURA_TELA))  # Ajuste o tamanho do fundo
     return fundo
 
@@ -88,21 +88,21 @@ def verificar_colisao_borda(x, y, largura_personagem, altura_personagem):
 
 def mostrar_game_over():
     # Substitua pelo caminho da sua fonte personalizada
-    fonte_game_over = pygame.font.Font("C:/Users/slysa/PycharmProjects/catgame2/.venv/fonte2d.ttf", 74)
+    fonte_game_over = pygame.font.Font("C:/Users/slysa/PycharmProjects/catgame2/code/fonte2d.ttf", 74)
     texto_game_over = fonte_game_over.render("Game Over", True, VERMELHO)
     tela.blit(texto_game_over, (LARGURA_TELA // 2 - texto_game_over.get_width() // 2, ALTURA_TELA // 2 - texto_game_over.get_height() // 2))
 
 
 def carregar_record():
     try:
-        with open(".venv/record.pickle", "rb") as arquivo:
+        with open("record.pickle", "rb") as arquivo:
             return pickle.load(arquivo)
     except FileNotFoundError:
         return 0  # Se não existir o arquivo de recorde, o recorde será 0
 
 
 def salvar_record(record):
-    with open(".venv/record.pickle", "wb") as arquivo:
+    with open("record.pickle", "wb") as arquivo:
         pickle.dump(record, arquivo)
 
 
@@ -214,11 +214,11 @@ def jogo():
 
             def desenhar_contador(coletados):
                 fonte_tamanho = 30
-                fonte = pygame.font.Font("C:/Users/slysa/PycharmProjects/catgame2/.venv/lovedays.ttf", fonte_tamanho)
+                fonte = pygame.font.Font("C:/Users/slysa/PycharmProjects/catgame2/code/lovedays.ttf", fonte_tamanho)
                 texto = fonte.render(f"Bucho: {coletados}", True, PRETO)
 
                 fundo_contador = pygame.image.load(
-                    "C:/Users/slysa/PycharmProjects/catgame2/.venv/caixa.png")
+                    "C:/Users/slysa/PycharmProjects/catgame2/code/caixa.png")
                 fundo_contador = pygame.transform.scale(fundo_contador, (
                 texto.get_width() + 50, texto.get_height() + 10))
 

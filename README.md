@@ -84,24 +84,24 @@ Criar um ambiente virtual ajuda a manter as dependências do projeto isoladas.
    python -m venv venv
 Ative o ambiente virtual:
 Windows:
-bash
-Copiar código
+```
 .\venv\Scripts\activate
+```
 Mac/Linux:
-bash
-Copiar código
+```
 source venv/bin/activate
+```
 Passo 3: Instalando as dependências
 Com o ambiente virtual ativo, instale as dependências do projeto (que estão no arquivo requirements.txt).
 
 No terminal, digite o seguinte comando:
-bash
-Copiar código
+```
 pip install -r requirements.txt
+```
 4. Rodando o jogo
 Agora que tudo está configurado, basta rodar o jogo!
 
 No terminal, com o ambiente virtual ainda ativo, digite:
-bash
-Copiar código
+```
 python game3.py
+```

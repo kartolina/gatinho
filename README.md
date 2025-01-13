@@ -31,3 +31,6 @@ Adicionar novos coletáveis e desafios.
 Melhorar a animação do gatinho.
 Deixar o jogo mais difícil com o tempo.
 Adicionar sons e trilha sonora.
+
+# Imagens:
+toda a arte usada no jogo foi graças aos artistas no ichi.io que disponibilizaram seu trabalho para projetos como este: 9E0, edermunizz e Henry Software!
